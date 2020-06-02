@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "user",
+        "MONGO_PWD": "p@ssword",
+        "JWT_KEY": "mySecret",
+        "JWT_EXPIRE_TIME": "6000s"
+    }
+}
